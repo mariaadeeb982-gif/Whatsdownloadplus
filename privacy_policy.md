@@ -26,10 +26,9 @@ The app only accesses files already stored on your phone (e.g., WhatsApp Statuse
 To function properly, WhatsDownload Plus may request the following permissions:
 
 * **Storage permission:** Required to access and save media files from your WhatsApp Statuses.
-* **Notification permission (optional):** Used to detect new WhatsApp status updates or to send reminders if you enable notifications.
-* **Location permission (optional):** Access to approximate or precise location may be requested for location-based features like prayer time reminders. We do **not** track or share your location.
+* **Notification permission:** Used to detect new WhatsApp status updates or to send reminders if you enable notifications.
 * **Internet and network state access:** Required to load ads and fetch content. The app may display ads via Google AdMob, which may use anonymized data (Advertising ID) for advertising purposes.
-* **Exact alarms:** Used to schedule local notifications and reminders on your device.
+
 
 All permissions are used **solely for app functionality** and do **not** collect or share personal information outside your device.
 
