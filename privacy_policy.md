@@ -1,69 +1,97 @@
-## **Privacy Policy – WhatsDownload Plus**
+
+# 📄 Privacy Policy – WhatsDownload Plus
 
 **Last updated:** December 2025
 
-WhatsDownload Plus respects your privacy. This Privacy Policy explains how our app handles user data and the permissions it requests.
+WhatsDownload Plus values your privacy. This Privacy Policy explains how our app works, what permissions it uses, and how user data is handled.
 
 ---
 
-### **1. Information We Collect**
+## 1. Information We Collect
 
-We **do not collect, store, or share any personal data** such as contacts, messages, or media from your device.
-The app only accesses files already stored on your phone (e.g., WhatsApp Statuses) to display or save them **locally** within your device.
+WhatsDownload Plus **does not collect, store, or share any personal information**.
 
----
+We do **not** collect:
 
-### **2. How the App Works**
+- Contacts  
+- Messages  
+- Call logs  
+- Location data  
+- WhatsApp chats  
 
-* The app scans your WhatsApp Status folder to display available photos and videos.
-* You can save or delete statuses locally; they remain on your phone unless you manually remove them.
-* The app does **not upload or transfer** your media to any server.
-
----
-
-### **3. Permissions**
-
-To function properly, WhatsDownload Plus may request the following permissions:
-
-* **Storage permission:** Required to access and save media files from your WhatsApp Statuses.
-* **Notification permission:** Used to detect new WhatsApp status updates or to send reminders if you enable notifications.
-* **Internet and network state access:** Required to load ads and fetch content. The app may display ads via Google AdMob, which may use anonymized data (Advertising ID) for advertising purposes.
-
-
-All permissions are used **solely for app functionality** and do **not** collect or share personal information outside your device.
+All media accessed by the app (images or videos) already exists **locally on your device**.
 
 ---
 
-### **4. Third-Party Services**
+## 2. How the App Works
 
-* The app uses **Google AdMob** to display ads. AdMob may collect anonymized information such as device identifiers for ad purposes.
-* WhatsDownload Plus does **not integrate analytics or tracking services** that collect personal data.
-
----
-
-### **5. Security**
-
-All actions occur locally on your device.
-We do **not** have access to your WhatsApp account, messages, or personal files.
+- The app scans WhatsApp Status folders stored on your device to display available images and videos.
+- You may download or delete status media **locally**.
+- Downloaded files remain on your device unless you manually delete them.
+- The app does **not upload, sync, or back up any data** to external servers.
 
 ---
 
-### **6. Children’s Privacy**
+## 3. Permissions We Use
 
-Our app is **not directed toward children under 13**.
-We do **not knowingly collect any information from minors**.
+WhatsDownload Plus only requests permissions that are **strictly required** for core app functionality.
+
+### Storage & Media Access
+
+- Used to read WhatsApp Status images and videos from your device.
+- On Android 13+, media access is limited to:
+  - Images  
+  - Videos  
+  - Audio (only if present)  
+- The app does **not modify or delete files automatically**.
+
+### Internet & Network State
+
+- Required to display ads via **Google AdMob**.
+- Used to check network availability.
+
+### Foreground Service & Vibration
+
+- Used for smooth background operations and optional user notifications.
+
+All permissions are used **only on the user’s device** and **never for data collection or tracking**.
 
 ---
 
-### **7. Updates to This Policy**
+## 4. Third-Party Services
 
-We may update this policy from time to time. The latest version will always be available in the app’s “Privacy Policy” section.
+- The app uses **Google AdMob** for displaying advertisements.
+- AdMob may collect anonymized data such as **Advertising ID** for ad personalization.
+- WhatsDownload Plus itself does **not collect analytics or tracking data**.
+
+You can learn more about Google’s data practices in Google’s Privacy Policy.
+
+---
+
+## 5. Data Security
+
+- All app operations occur **locally on your device**.
+- We do **not** access WhatsApp accounts, messages, or private content.
+- No user data is stored on our servers.
 
 ---
 
-### **8. Contact Us**
+## 6. Children’s Privacy
 
-If you have questions about this Privacy Policy, please contact:
-📧 **[mariaadeeb982@gmail.com](mailto:support@mariaxcodexpert.com)**
+WhatsDownload Plus is **not intended for children under the age of 13**.  
+We do **not knowingly collect any data from children**.
 
 ---
+
+## 7. Changes to This Policy
+
+This Privacy Policy may be updated periodically.  
+Any changes will be reflected inside the app.
+
+---
+
+## 8. Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy, please contact us at:
+
+📧 **mariaadeeb982@gmail.com**
